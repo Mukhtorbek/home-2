@@ -1,0 +1,26 @@
+   0 touch /root/hello.c myfirstbashscript.sh
+   1 ls hello.c
+   2 cat hello.c
+   3 ls /root
+   4 chmod u
+   5 chmod u+x myfirstbashscript.sh
+   6 ls /root
+   7 ./myfirstbashscript.sh
+   8 export USER=Mukhtorbek
+   9 echo $USER
+  10 vi myfirstbashscript.sh
+  11 ./myfirstbashscript.sh
+  12 nano myfirstbashscript.sh
+  13 ./myfirstbashscript.sh
+  14 nano myfirstbashscript.sh
+  15 ./myfirstbashscript.sh 
+  16 nano myfirstbashscript.sh 
+  17 ./myfirstbashscript.sh 
+  18 nano myfirstbashscript.sh 
+  19 ./myfirstbashscript.sh 
+  20 nano myfirstbashscript.sh
+  21 ./myfirstbashscript.sh
+  22 nano myfirstbashscript.sh
+  23 ./myfirstbashscript.sh
+  24 history
+  25 history>19.04.23.txt
